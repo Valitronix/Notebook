@@ -5,6 +5,4 @@ Shared Notebook for WPI HiRo Lab
 
 ### Papers and Reading Notes
 
-### Instructions for using lab devices
-
 
